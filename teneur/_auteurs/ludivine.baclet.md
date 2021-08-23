@@ -10,6 +10,5 @@ missions:
 startups:
   - place-des-entreprises
 badges:
-  - segur
----
+  - segur![IMG_3040](https://user-images.githubusercontent.com/89008438/130410532-c77a12cf-fa7d-435d-9146-dab5fa20c031.jpg)---
 
